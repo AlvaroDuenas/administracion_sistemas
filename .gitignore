@@ -2,3 +2,5 @@
 tweeter/.idea/
 
 tweeter/venv/
+
+tweeter/resources/credentials.json
